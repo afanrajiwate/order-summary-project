@@ -6,5 +6,6 @@
 
 Thanks for checking out this front-end coding challenge.
 
-#Live site
-https://afanrajiwate.github.io/order-summary-project/
+## Live Site
+[View it Here]
+(https://afanrajiwate.github.io/order-summary-project/)
